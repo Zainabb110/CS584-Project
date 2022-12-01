@@ -1,0 +1,5 @@
+This repository contains 4 Google Colab notebooks. 
+The first one, EDA.ipynb, explores relationships between different independent and target variables. 
+LR.ipynb contains a Linear Regression model. 
+RF.ipynb contains a Random Forest model. 
+AutoML.ipynb contains a library implementation of several models, the best performance of which is XGB Limit Depth.  
